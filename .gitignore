@@ -1,0 +1,4 @@
+node_modules
+grafana
+influxdb
+package-lock.json
